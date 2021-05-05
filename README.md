@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ralphjc/TestRepo/issues/1#issue-876747051">
+  <a href="https://user-images.githubusercontent.com/76001642/117193041-05e5f680-ada8-11eb-82e4-9ec8d6f53a76.png">
     <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
