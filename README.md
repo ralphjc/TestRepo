@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="https://user-images.githubusercontent.com/76001642/117193041-05e5f680-ada8-11eb-82e4-9ec8d6f53a76.png">
-    <img src="https://user-images.githubusercontent.com/76001642/117193041-05e5f680-ada8-11eb-82e4-9ec8d6f53a76.png" alt="Logo" width="120" height="120">
+    <img src="https://user-images.githubusercontent.com/76001642/117193041-05e5f680-ada8-11eb-82e4-9ec8d6f53a76.png" alt="Logo" width="480" height="320">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
